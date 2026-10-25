@@ -6,6 +6,8 @@ public class Main {
 
     //--------------------------------------------------------------------------
     // Question 1
+    // Returns true if chara appears exactly inta times in stra;
+    // otherwise, returns false.
     //--------------------------------------------------------------------------
 
     public static boolean charNumbers(String stra, int inta, char chara) {
@@ -26,6 +28,8 @@ public class Main {
 
     //--------------------------------------------------------------------------
     // Question 2
+    // Returns the number of times the digit entered by the user
+    // appears in the string entered by the user.
     //--------------------------------------------------------------------------
 
     public static int indexFinder() {
@@ -50,6 +54,8 @@ public class Main {
 
     //--------------------------------------------------------------------------
     // Question 3
+    // Returns a new string with the characters of strn
+    // in reverse order.
     //--------------------------------------------------------------------------
 
     public static String reverser(String strn) {
@@ -65,6 +71,7 @@ public class Main {
 
     //--------------------------------------------------------------------------
     // Question 4
+    // Returns a new string with all occurrences of target removed from s.
     //--------------------------------------------------------------------------
 
     public static String condenser(String s, String target) {
@@ -89,6 +96,7 @@ public class Main {
 
     //--------------------------------------------------------------------------
     // Question 5
+    // Prints all positive factors of num in ascending order.
     //--------------------------------------------------------------------------
 
     public static void factors(int num) {
@@ -101,6 +109,8 @@ public class Main {
 
     //--------------------------------------------------------------------------
     // Question 6
+    // Prints all numbers from inta (inclusive) to intb (exclusive)
+    // that are divisible by intc.
     //--------------------------------------------------------------------------
 
     public static void divisibler(int inta, int intb, int intc) {
@@ -117,6 +127,7 @@ public class Main {
 
     //--------------------------------------------------------------------------
     // Question 7
+    // Returns the sum of all integers from inta to intb, inclusive.
     //--------------------------------------------------------------------------
 
     public static int summer(int inta, int intb) {
@@ -133,6 +144,7 @@ public class Main {
 
     //--------------------------------------------------------------------------
     // Question 8
+    // Returns a new string containing strn repeated intn times.
     //--------------------------------------------------------------------------
 
     public static String duplicator(String strn, int intn) {
@@ -148,6 +160,8 @@ public class Main {
 
     //--------------------------------------------------------------------------
     // Question 9
+    // Returns a new string with all occurrences of the first character
+    // of strb removed from stra.
     //--------------------------------------------------------------------------
 
     public static String devoweler(String stra, String strb) {
@@ -176,6 +190,7 @@ public class Main {
 
     //--------------------------------------------------------------------------
     // Question 12
+    // Prints whether the length of the string entered by the user is even or odd.
     //--------------------------------------------------------------------------
 
     public static void lengther() {

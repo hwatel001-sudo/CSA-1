@@ -125,6 +125,7 @@ public class Main {
         }
     }
 
+
     //--------------------------------------------------------------------------
     // Question 7
     // Returns the sum of all integers from inta to intb, inclusive.
